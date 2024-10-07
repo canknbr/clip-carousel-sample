@@ -1,3 +1,3 @@
 HTML-CSS-JS-GSAP ile yapılmış örnek sayfadır
 
-![Screenshot](./assets//ss1.png)(https://brutalist-nav-sample.vercel.app/)
+![Screenshot](./assets//ss1.png)(https://clip-carousel-sample.vercel.app/)
